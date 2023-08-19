@@ -1,7 +1,3 @@
-Certainly! Here's a README file that explains the code and its functionality:
-
----
-
 # SparkSQL Data Analysis with PySpark
 
 This project demonstrates using PySpark's SparkSQL module to perform data analysis tasks on a dataset containing home sales information. The analysis involves querying and manipulating the data using SparkSQL queries to answer specific questions. The code showcases how to install Spark, load data from an external source, create temporary views, and perform various SQL-like operations.
