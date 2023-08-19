@@ -75,6 +75,16 @@ Checking if the `home_sales` table is no longer cached.
 
 This project showcases how to leverage PySpark's SparkSQL module for data analysis tasks on a home sales dataset. By executing SparkSQL queries, the code demonstrates how to answer specific questions and compare the performance of different approaches, such as caching and using Parquet format. This README provides an overview of the project and its functionality.
 
----
+I utilized a recorded instructor review of this analysis to troubleshoot problems and verify accuracy of this project.
 
-Feel free to modify this README as needed, adding more details or sections if required. Make sure to adapt the content to your preferred format and style.
+
+
+
+<br>
+<br>  
+<br>  
+
+### Questions?
+Please refer to the following:  
+[My LinkedIn Page](https://www.linkedin.com/in/savannah-porter-7a2627267/)  
+[My Email Contact](savannahnporter@gmail.com)
