@@ -43,11 +43,6 @@ This project showcases how to leverage PySpark's SparkSQL module for data analys
 
 I utilized a recorded instructor review of this analysis to troubleshoot problems and verify the accuracy of this project.
 
-## Questions?
-Please refer to the following:
-- [My LinkedIn Page](#your-linkedin-page)
-- [My Email Contact](#your-email-address)
-
 
 <br>
 <br>  
